@@ -744,6 +744,9 @@ body {
   margin-left: 1rem;
   margin-right: 1rem;
 }
+.-mt-16 {
+  margin-top: -4rem;
+}
 .-mt-8 {
   margin-top: -2rem;
 }
@@ -758,6 +761,9 @@ body {
 }
 .ml-3 {
   margin-left: 0.75rem;
+}
+.mb-40 {
+  margin-bottom: 8rem;
 }
 .mb-20 {
   margin-bottom: 5rem;
